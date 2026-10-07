@@ -1,7 +1,7 @@
-# audiobible-darkknox2-english
+# audiobible-verses-english-darkknox2
 
 Per-verse English translation reading in the DarkKnox2 voice.
 
 ## License
 
-- `audiobible-darkknox2-english` — no license claimed.
+- `audiobible-verses-english-darkknox2` — no license claimed.
