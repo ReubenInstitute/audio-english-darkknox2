@@ -1,8 +1,0 @@
-Package: audiobible-darkknox2-english
-Version: 0.2
-Section: sound
-Priority: optional
-Architecture: all
-Maintainer: Reuben Institute <reubeninstitute@gmail.com>
-Description: English translation reading in the DarkKnox2 voice, per verse
- Per-verse English translation reading in the DarkKnox2 voice.
